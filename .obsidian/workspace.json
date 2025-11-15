@@ -12,18 +12,29 @@
             "type": "leaf",
             "pinned": true,
             "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8b2ccd0dacda13a4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - web3入门学习/README.md",
+                "file": "Welcome.md",
                 "mode": "preview",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - web3入门学习/README.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -126,8 +137,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -180,8 +191,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "31ae5a383e08f553",
+  "active": "0b05bd85749694a5",
   "lastOpenFiles": [
+    "百科_吉他如何保养.md",
+    "乐理/乐理_首调与固定调.md",
+    "乐理/乐理_顺阶和弦.md",
+    "乐理/乐理_精通指板之路.md",
+    "乐理/乐理_算不清楚的音程.md",
+    "乐理/乐理_是什么？怎么学？怎么练？.md",
+    "乐理/乐理_和弦的名称.md",
+    "乐理/乐理_变调夹的逻辑.md",
+    "乐理/乐理_你知道你弹的是什么音吗.md",
+    "乐理/乐理_C 大调音阶.md",
+    "乐理",
+    "答疑_如何读谱？.md",
     "00 - web3入门学习/Crypto101.md",
     "00 - web3入门学习/README.md",
     "00 - web3入门学习/基础概念.md",
@@ -197,18 +220,7 @@
     "00 - web3入门学习/Crypto101/One-time MACs.md",
     "00 - web3入门学习/Crypto101/Carter-Wegman MAC.md",
     "00 - web3入门学习/Crypto101/Authenticate and encrypt.md",
-    "00 - web3入门学习/Crypto101/digest.md",
-    "00 - web3入门学习/Crypto101/Length Extension Attacks.md",
-    "00 - web3入门学习/Crypto101/Password Storage.md",
-    "00 - web3入门学习/Crypto101/Hash Tree.md",
     "Untitled.base",
-    "00 - web3入门学习/Crypto101/分组密码的特定工作模式（Mode of Operation）.md",
-    "00 - web3入门学习/Crypto101/RSA.md",
-    "00 - web3入门学习/Crypto101/Encryption oracle attack.md",
-    "00 - web3入门学习/Crypto101/ARX design.md",
-    "00 - web3入门学习/Crypto101/CBC bit flipping attacks.md",
-    "00 - web3入门学习/Crypto101/Stream Ciphers Category.md",
-    "00 - web3入门学习/Crypto101/CBC padding attacks.md",
     "00 - web3入门学习/Crypto101",
     "00 - hello",
     "00 - web3入门学习"
