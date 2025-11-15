@@ -1,0 +1,11 @@
+{
+  "interfaceFontFamily": "",
+  "textFontFamily": "Maple Mono NF CN",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items"
+  ],
+  "monospaceFontFamily": "Maple Mono NF CN",
+  "theme": "moonstone",
+  "cssTheme": "Catppuccin"
+}
